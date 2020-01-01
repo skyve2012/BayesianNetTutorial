@@ -30,6 +30,6 @@ This repo includes files for the tutorial at AAS meeting for Bayesian Neural Net
 
 # Reference Link
 
-Here's a reference link[https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Probabilistic_Layers_Regression.ipynb#scrollTo=TLZ97_V4PP-f] for linear regression part
+Here's a reference [link](https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Probabilistic_Layers_Regression.ipynb#scrollTo=TLZ97_V4PP-f) for linear regression part
 
 
