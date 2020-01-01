@@ -1,7 +1,7 @@
 # BayesianNetTutorial
 
 This repo includes a tutorial on Bayesian Neural Networks. There are three separate parts for this tutorial.
-1. Linear Regression with variable noise
+1. Linear Regression concerning different uncertainty measures
 2. Bayesian Neural Network on Gravitational Wave Parameter Estimation (applies to other purposes in general)
 3. How to write TensorFLow code for training and evaluation (arbitrary mdoel and dataset)
 
