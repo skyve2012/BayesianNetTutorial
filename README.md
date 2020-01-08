@@ -28,3 +28,6 @@ It's recommended to use Anaconda to create a virtual environment and install the
 Here's a reference [link](https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Probabilistic_Layers_Regression.ipynb#scrollTo=TLZ97_V4PP-f) in Google colab for linear regression part
 
 
+## Contact
+
+Hongyu Shen: hongyu2@illinois.edu
